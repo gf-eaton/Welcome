@@ -18,7 +18,10 @@
     - Request local Admin [read](https://confluence-prod.tcc.etn.com/pages/viewpage.action?pageId=206014628) proceed [here](http://eiam.tcc.etn.com/identity/?_adf.ctrl-state=gfu6snh9m_1&_afrLoop=6357781218272717)
     - Request x$ [JIRA](http://itsc7.tcc.etn.com/ServiceCatalog/navigation.do?go=submission&dashboard=tl%3A2%7Cmc%3A1%7Cc%3A75%7Ct%3A0)
     - Request x$ [MSDN/VS2022 Pro](http://itsc7.tcc.etn.com/ServiceCatalog/navigation.do?go=sd&entry=000000000075952)
-    - Request x$ ~~[DevOps](./)~~
+    - Request x$ [DevOps](https://apps.powerapps.com/play/de48d50f-a7fa-4141-8bfd-dfd1de70a227?tenantId=d6525c95-b906-431a-b926-e9b51ba43cc4)
+      + Use Ledger/ActivityCenter : 4355/60101
+      + etn:electrical:DERMS
+      + etn:electrical:EVCI_EMS
     - Request x$ [Confluence](http://itsc7.tcc.etn.com/ServiceCatalog/navigation.do?go=submission&dashboard=tl%3A2%7Cmc%3A1%7Cc%3A75%7Ct%3A3)
     - Optional request 320$ [Miro](http://itsc7.tcc.etn.com/ServiceCatalog/navigation.do?go=sd&entry=000000000082951)
 
