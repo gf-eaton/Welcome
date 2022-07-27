@@ -14,6 +14,7 @@
     - [JOE](http://portal.etn.com/intranet/faces/oracle/webcenter/portalapp/pages/eatontoday.jspx)
     - [IT service Catalog](http://itsc7.tcc.etn.com/ServiceCatalog/navigation.do?go=myrequests)
     - [University](https://eatonuniversity.sumtotal.host/rcore/c/dash/MLAD/ENG?isDeepLink=1)
+    
  2. Compplete these task (JOE must be open for SSO to work)
     - Request local Admin [read](https://confluence-prod.tcc.etn.com/pages/viewpage.action?pageId=206014628) proceed [here](http://eiam.tcc.etn.com/identity/?_adf.ctrl-state=gfu6snh9m_1&_afrLoop=6357781218272717)
     - Request x$ [JIRA](http://itsc7.tcc.etn.com/ServiceCatalog/navigation.do?go=submission&dashboard=tl%3A2%7Cmc%3A1%7Cc%3A75%7Ct%3A0)
@@ -29,7 +30,8 @@
 
 #### Day to day work links
  - [JIRA](https://jira-prod.tcc.etn.com/secure/RapidBoard.jspa?rapidView=2668&projectKey=MGCP&selectedIssue=MGCP-298)
-  
+ - [DevOps](https://dev.azure.com/)
+ - [Miro](https://miro.com/sso/login/)
 #### Administrative links 
  - [AER Form](http://itsc7.tcc.etn.com/ServiceCatalog/navigation.do?go=sd&entry=000000000129970)
  - [SunLife](https://www.sunnet.sunlife.com/signin/mysunlife/home.wca)
@@ -53,4 +55,4 @@
  - [ ] putty x64
 
 ---
-Last update 2022-07-26 18:22
+Last update 2022-07-27 09:25
