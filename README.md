@@ -45,7 +45,7 @@
 #### Nice to have
  - [Avatar maker](https://avatarmaker.com/)
 
-#### Tools required
+#### Tools that we use
 
  - [ ] Git-2.37.1-64-bit
  - [ ] Anaconda3-2022.05-Windows-x86_64
