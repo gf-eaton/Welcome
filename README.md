@@ -76,9 +76,9 @@ ID | Audience | Package name | best time to install | chargeback | required for
 20 |    I Q | Selenium | when need it | IT | 
 21 |    I Q | Coverity | when need it | IT | 
 22 |    I Q | BlackDuck | when need it | IT | 
-31 | FA  PQ |   VScode Extension : Azure Account, C/C++, CMake, Cmake Tools, Jupyter | | 12
-32 |   D    |   VScode Extension : Azure Account | | 12
-33 |    I   |   VScode Extension : Azure Account, Azure Terraform | | 12
+31 | FA  PQ |   VScode Extension : Azure Account, C/C++, CMake, Cmake Tools, Jupyter | | | 12
+32 |   D    |   VScode Extension : Azure Account | | | 12
+33 |    I   |   VScode Extension : Azure Account, Azure Terraform | | | 12
 
 ---
 Last update 2022-09-19 07:33
