@@ -69,7 +69,7 @@ ID | Audience | Package name | best time to install | chargeback | required for
 13 |  A IPQ | [Azure CLI for Windows 2.39](https://aka.ms/installazurecliwindows) | week 3 | free | 12
 14 |  A  P  | Postman-win64-9.24.2-Setup | when need it | free |
 15 | F   P  | cmake-3.24.0-rc4-windows-x86_64 | when need it | free  | 16
-16 | F   P  | Visual Studio PRO (need to do the request license first) | when need it | request license first | 
+16 | F   P  | Visual Studio PRO (request license first) | when need it | request license first | 
 17 |    IP  | [SQL Server Management Studio (SSMS)](https://aka.ms/ssmsfullsetup) | when need it | free |
 18 | F   P  | putty x64 0.77 | when need it | free |
 19 | F   P  | mobaXterm lastest (putty is similar) | when need it | free |
