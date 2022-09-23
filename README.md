@@ -8,19 +8,19 @@
 
   - Image comming soon
 
-### Tasks (first weeks)
+### Tasks (first week)
 
  1. Bookmark these
     - [JOE](http://portal.etn.com/intranet/faces/oracle/webcenter/portalapp/pages/eatontoday.jspx)
     - [IT service Catalog](http://itsc7.tcc.etn.com/ServiceCatalog/navigation.do?go=myrequests)
     - [University](https://eatonuniversity.sumtotal.host/rcore/c/dash/MLAD/ENG?isDeepLink=1)
- 2. Compplete these task (JOE must be open for SSO to work)
+ 2. Complete these tasks (JOE must be open for SSO to work)
     - Request local Admin [read](https://confluence-prod.tcc.etn.com/pages/viewpage.action?pageId=206014628) proceed [here](http://eiam.tcc.etn.com/identity/?_adf.ctrl-state=gfu6snh9m_1&_afrLoop=6357781218272717)
     - Request access x$ [JIRA](http://itsc7.tcc.etn.com/ServiceCatalog/navigation.do?go=submission&dashboard=tl%3A2%7Cmc%3A1%7Cc%3A75%7Ct%3A0)
     - Request [DevOps](https://apps.powerapps.com/play/de48d50f-a7fa-4141-8bfd-dfd1de70a227?tenantId=d6525c95-b906-431a-b926-e9b51ba43cc4)
       + Use Ledger/ActivityCenter : 
          + USA : 4355/60101
-         + CANADA : 7376/60101
+         + CANADA : 7673/60101
       + etn-electrical : DERMS
       + etn-esb : EVCI_EMS
       + etn-electrical : PXMCEA
