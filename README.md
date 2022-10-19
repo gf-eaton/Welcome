@@ -82,4 +82,4 @@ ID | Audience | Package name | best time to install | chargeback | required for
 33 |     I   |   VScode Extension : Azure Account, Azure Terraform | | | 12
 
 ---
-Last update 2022-09-19 07:33
+Last update 2022-10-19 11:04
